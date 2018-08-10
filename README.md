@@ -35,3 +35,4 @@ How to use Iteration Methods - accept callback and gets invoked
     reduce() - very powerful
     some()
     values()
+   
